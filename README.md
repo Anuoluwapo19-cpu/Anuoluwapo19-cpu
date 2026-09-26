@@ -48,7 +48,7 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 
 A web project focused on presenting data-related content through a clean and responsive user interface.
 
-<img src="images/log03.png" width="100%" alt="DeDataDude Website">
+<img src="images/log01.png" width="100%" alt="DeDataDude Website">
 
 **Built With:** HTML • CSS • JavaScript
 
@@ -60,7 +60,7 @@ A web project focused on presenting data-related content through a clean and res
 
 A responsive task management application built to help users organize and manage their tasks.
 
-<img src="./images/todo-list.png" width="100%" alt="Todo List Website">
+<img src="images/log03.png" width="100%" alt="Todo List Website">
 
 **Built With:** HTML • CSS • JavaScript
 
@@ -72,7 +72,7 @@ A responsive task management application built to help users organize and manage
 
 A web application created to help users decide what to eat through a simple and interactive interface.
 
-<img src="./images/what2eat.png" width="100%" alt="WHAT2EAT Website">
+<img src="./images/Eat.png" width="100%" alt="WHAT2EAT Website">
 
 **Built With:** HTML • CSS • JavaScript
 
