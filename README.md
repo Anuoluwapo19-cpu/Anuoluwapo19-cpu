@@ -48,7 +48,7 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 
 A web project focused on presenting data-related content through a clean and responsive user interface.
 
-<img src="images/log01.png" width="100%" alt="DeDataDude Website">
+<img src="images/Log1.png" width="100%" alt="DeDataDude Website">
 
 **Built With:** HTML • CSS • JavaScript
 
